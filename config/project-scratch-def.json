@@ -1,0 +1,12 @@
+{
+ 
+  "country": "US",
+  "features": ["DevelopmentWave"],
+  "settings": {
+  "orgPreferenceSettings":{
+  "eventLogWaveIntegEnabled": true
+  }
+  },
+  "orgName": "DreamHouse Realty",
+  "edition": "Developer"
+}
