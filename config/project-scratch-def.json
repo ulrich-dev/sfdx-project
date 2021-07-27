@@ -1,9 +1,11 @@
 {
-  "orgName": "DreamHouse Realty",
-  "edition": "Developer",
+  "country": "US",
+  "features": ["DevelopmentWave"],
   "settings": {
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    }
+  "orgPreferenceSettings":{
+  "eventLogWaveIntegEnabled": true
   }
+  },
+  "orgName": "DreamHouse Realty",
+  "edition": "Developer"
 }
